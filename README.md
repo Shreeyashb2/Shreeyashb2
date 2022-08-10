@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shreeyashb2
-- 👀 I’m interested in Networking 
-- 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me EmailID: shreeyashb2@gmail.com
 
 <!---
